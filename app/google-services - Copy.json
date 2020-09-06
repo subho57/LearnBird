@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "741074660527",
+    "firebase_url": "https://learnbird-73f29.firebaseio.com",
+    "project_id": "learnbird-73f29",
+    "storage_bucket": "learnbird-73f29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741074660527:web:3a349b2dff1c90e035785a",
+        "android_client_info": {
+          "package_name": "com.subho57.github.io.learnbird"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177965120417-9u87stskek86fjfvrr6qt24j1ctbuudm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw--Xar9_tNGTFzUA2LM-ehom5H2gj4lE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177965120417-9u87stskek86fjfvrr6qt24j1ctbuudm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
