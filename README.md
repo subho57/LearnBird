@@ -12,3 +12,6 @@ It is the Android official app of LearnBird Innovative Solutions in development 
 
 ##### Forgot Password
 <img src=https://github.com/subho57/LearnBird/blob/master/Screenshots/ForgotPassword.png height="190px">
+
+## Download the App
+<a href=https://github.com/subho57/LearnBird/releases/download/v0.4/LearnBird.Login+Signup.apk>LearnBird v0.4</a>
